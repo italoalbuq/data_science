@@ -20,7 +20,6 @@ Experience in: Python, Machine Learning, Space Operations and Mathematical Optim
 
 
 ## Projetos:
-Veja os tutoriais publicados:
 
 ---
 
