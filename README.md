@@ -18,7 +18,7 @@ My credentials include a Master's in Space Science and Technology from the Aeron
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
+Veja os tutoriais publicados:
 
 * **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
 * **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
