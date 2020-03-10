@@ -19,7 +19,7 @@ Experience in: Python, Machine Learning, Space Operations and Mathematical Optim
 
 ## Projetos:
 
-Análise dos Dados do Airbnb para o Austin-TX, no EUA: https://bit.ly/39GwzeW
+**Análise dos Dados do Airbnb para o Austin-TX, no EUA:** https://bit.ly/39GwzeW
 
 
 
