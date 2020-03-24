@@ -20,4 +20,5 @@ Experience in: Python, Machine Learning, Space Operations and Mathematical Optim
 ## Projetos:
 
 **Análise dos Dados do Airbnb para o Austin-TX, no EUA:** https://bit.ly/AirBnbAustinTX
+
 **Análise dos Dados de violência no Rio de Janeiro-RJ, no BRA:** https://bit.ly/ViolenciaRioDeJaneiro
