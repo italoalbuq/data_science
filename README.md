@@ -23,4 +23,4 @@ Experience in: Python, Machine Learning, Space Operations and Mathematical Optim
 
 **Análise dos Dados de violência no Rio de Janeiro-RJ, no BRA:** https://bit.ly/ViolenciaRioDeJaneiro
 
-**Análise dos Dados de coronavírus (COVID-19), no Brasil e no Mundo:**
+**Análise dos Dados de coronavírus (COVID-19), no Brasil e no mundo:**
