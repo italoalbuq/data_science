@@ -14,7 +14,7 @@ I like Data Science and study to pursue a career in the field, as it is promisin
 Experience in: Python, Machine Learning, Space Operations and Mathematical Optimization.
 
 **Links:**
-* [LinkedIn](https://www.linkedin.com/in/italo-giullian-30b30014b)
+* [LinkedIn](https://www.linkedin.com/in/italogiullian)
 
 
 ## Projetos:
