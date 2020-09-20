@@ -19,7 +19,7 @@ Experience in: Python, Machine Learning, Space Operations and Mathematical Optim
 
 ## Projetos:
 
-**Criação de vetores e matrizes em Python** http://bit.ly/AlgebraLinearCienciaDados
+**Criação de vetores e matrizes em Python:** http://bit.ly/AlgebraLinearCienciaDados
 
 **Análise dos Dados do Airbnb para o Austin-TX, no EUA:** https://bit.ly/AirBnbAustinTX
 
