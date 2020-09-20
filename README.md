@@ -29,4 +29,4 @@ Experience in: Python, Machine Learning, Space Operations and Mathematical Optim
 
 **Análise dos Dados do panorama dos Cientista de Dados no Brasil:** http://bit.ly/PanoramaDosCientistasDeDadosBrasil
 
-**Análise dos Dados da relação entre os Fatores Climáticos e a Indicência da Dengue, no município de Picos-PI:** http://bit.ly/RelacaoClimaDengue
+**Análise dos Dados da relação entre os Fatores Climáticos e a Indicência da Dengue:** http://bit.ly/RelacaoClimaDengue
