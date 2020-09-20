@@ -25,4 +25,4 @@ Experience in: Python, Machine Learning, Space Operations and Mathematical Optim
 
 **Análise dos Dados de coronavírus (COVID-19), no Brasil e no mundo:** https://bit.ly/Covid19Analise
 
-**Análise dos Dados do panorama dos Cientista de Dados no Brasil:** http://bit.ly/PanoramaCientistaDeDadosBrasil
+**Análise dos Dados do panorama dos Cientista de Dados no Brasil:** http://bit.ly/PanoramaCientistasDeDadosBrasil
