@@ -19,6 +19,8 @@ Experience in: Python, Machine Learning, Space Operations and Mathematical Optim
 
 ## Projetos:
 
+**Criação de vetores e matrizes em Python** http://bit.ly/AlgebraLinearCienciaDados
+
 **Análise dos Dados do Airbnb para o Austin-TX, no EUA:** https://bit.ly/AirBnbAustinTX
 
 **Análise dos Dados de violência no Rio de Janeiro-RJ, no BRA:** https://bit.ly/ViolenciaRioDeJaneiro
@@ -27,4 +29,4 @@ Experience in: Python, Machine Learning, Space Operations and Mathematical Optim
 
 **Análise dos Dados do panorama dos Cientista de Dados no Brasil:** http://bit.ly/PanoramaDosCientistasDeDadosBrasil
 
-**Criação de vetores e matrizes em Python** http://bit.ly/AlgebraLinearCienciaDados
+**Análise dos Dados da relação entre os Fatores Climáticos e a Indicência da Dengue, no município de Picos-PI:** http://bit.ly/RelacaoClimaDengue
